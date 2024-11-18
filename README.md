@@ -1,1 +1,1 @@
-# treinamento-sql
+# treinamento-sql-olist
