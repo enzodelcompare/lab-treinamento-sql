@@ -35,8 +35,6 @@ Este repositório contém as seguintes estruturas de pastas:
 
 ### Estrutura de Diretórios
 
-`arquivos/`: Contém os arquivos de dados comprimidos da fonte **Olist**.
-
 `der/`: Contém o modelo de dados no formato `ER` (**Entidade-Relacionamento*) para o banco `olist_db`, criado usando **SQL Power Architect**.
 
 `imagens/`: Imagens utilizadas no prodjeto.
