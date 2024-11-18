@@ -31,9 +31,9 @@ A fonte de dados utilizada no treinamento é proveniente do conjunto de dados da
 
 ## Estrutura do Projeto
 
-Este repositório contém os seguintes arquivos e pastas:
+Este repositório contém as seguintes estruturas de pastas:
 
-### Arquivos e Estrutura de Diretórios
+### Estrutura de Diretórios
 
 `arquivos/`: Contém os arquivos de dados comprimidos da fonte **Olist**.
 
