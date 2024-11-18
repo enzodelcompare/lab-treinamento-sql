@@ -8,6 +8,9 @@
 
 # Treinamento SQL - Data Voyagers
 
+<br>
+<br>
+
 ## Descrição do Projeto
 
 O treinamento tem como objetivo ensinar desde os conceitos básicos até os mais avançados de **SQL**, com ênfase no **MySQL**. Durante o treinamento, os participantes aprenderão a modelar e manipular dados a partir de um banco de dados real, proveniente do conjunto de dados da **OLIST** (_disponível no **Kaggle**_), aplicando técnicas de **DDL** (_Data Definition Language_), **DML** (_Data Manipulation Language_) e **DQL** (_Data Query Language_).
@@ -19,9 +22,15 @@ O projeto inclui:
 - **Manipulação de Dados:** Realizando inserções, atualizações e exclusões usando comandos **DML**.
 - **Consultas e Análises:** Consultando e analisando os dados com comandos **DQL** para extrair informações úteis.
 
+<br>
+<br>
+
 ## Fonte de Dados
 
 A fonte de dados utilizada no treinamento é proveniente do conjunto de dados da **OLIST** disponível no **Kaggle**: [Brazilian E-Commerce Public Dataset by Olist](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)
+
+<br>
+<br>
 
 ## Estrutura do Projeto
 
@@ -37,6 +46,9 @@ Este repositório contém os seguintes arquivos e pastas:
 
 `scripts/`: Contém os scripts **SQL** para criação do banco de dados, inserção de dados e consultas.
 
+<br>
+<br>
+
 ## Comandos SQL Abordados no Treinamento
 
 **1. Comandos DDL (Data Definition Language)**
@@ -51,9 +63,15 @@ Este repositório contém os seguintes arquivos e pastas:
 
 `scripts/select.sql`: Esses scripts são usados para consultar os dados no banco de dados, utilizando os comandos `SELECT` para realizar pesquisas complexas com filtros, joins, agregações e ordenações.
 
+<br>
+<br>
+
 ## Diagrama Entidade-Relacionamento (DER)
 
 O modelo de dados foi criado utilizando o **SQL Power Architect** e está disponível na pasta `der/der_olist/`. O diagrama representa as tabelas, suas relações e chaves estrangeiras.
+
+<br>
+<br>
 
 ## Objetivos do Treinamento
 
@@ -62,6 +80,9 @@ O modelo de dados foi criado utilizando o **SQL Power Architect** e está dispon
 - **Comandos DML:** Como inserir, atualizar e excluir dados no banco.
 - **Consultas Avançadas (DQL):** Como usar joins, subconsultas, agregações e funções para obter insights a partir dos dados.
 - **Modelagem de Dados:** Como usar o **SQL Power Architect** para criar e entender o modelo de dados de um banco de dados relacional.
+
+<br>
+<br>
 
 ## Como Rodar o Projeto?
 
@@ -73,6 +94,9 @@ Para rodar este projeto, você precisará de:
 - **SQL Power Architect:** Para visualizar e criar o modelo de dados.
 - **Kaggle API** ou **Download Manual:** Para obter os arquivos de dados da Olist.
 
+<br>
+<br>
+
 ## Exercícios Práticos
 
 Durante o treinamento, você realizará os seguintes exercícios:
@@ -82,6 +106,9 @@ Durante o treinamento, você realizará os seguintes exercícios:
 - **Consultas Avançadas:** Escrever consultas complexas para analisar as vendas, os produtos mais vendidos, etc.
 - **Modelagem de Dados:** Criar ou modificar o modelo **ER** utilizando o **SQL Power Architect**.
 
+<br>
+<br>
+
 ## Contribuições
 
-Contribuições são bem-vindas! Se você quiser melhorar este repositório, abra um pull request com suas melhorias ou correções. Caso identifique algum erro ou problema, crie uma issue para que possamos discutir a solução.
+Contribuições são bem-vindas! Se você quiser melhorar este repositório, abra um `pull request` com suas melhorias ou correções. Caso identifique algum erro ou problema, crie uma issue para que possamos discutir a solução.
