@@ -6,10 +6,9 @@
   <img src="https://img.shields.io/badge/contatos-enzo_delcompare-green">
 </a>
 
-# Treinamento SQL - Data Voyagers
+<img src="https://github.com/enzodelcompare/treinamento-sql-olist/blob/main/imagens/olist.png">
 
-<br>
-<br>
+# Treinamento SQL - Data Voyagers
 
 ## Descrição do Projeto
 
@@ -23,13 +22,11 @@ O projeto inclui:
 - **Consultas e Análises:** Consultando e analisando os dados com comandos **DQL** para extrair informações úteis.
 
 <br>
-<br>
 
 ## Fonte de Dados
 
 A fonte de dados utilizada no treinamento é proveniente do conjunto de dados da **OLIST** disponível no **Kaggle**: [Brazilian E-Commerce Public Dataset by Olist](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)
 
-<br>
 <br>
 
 ## Estrutura do Projeto
@@ -47,7 +44,6 @@ Este repositório contém os seguintes arquivos e pastas:
 `scripts/`: Contém os scripts **SQL** para criação do banco de dados, inserção de dados e consultas.
 
 <br>
-<br>
 
 ## Comandos SQL Abordados no Treinamento
 
@@ -64,13 +60,11 @@ Este repositório contém os seguintes arquivos e pastas:
 `scripts/select.sql`: Esses scripts são usados para consultar os dados no banco de dados, utilizando os comandos `SELECT` para realizar pesquisas complexas com filtros, joins, agregações e ordenações.
 
 <br>
-<br>
 
 ## Diagrama Entidade-Relacionamento (DER)
 
 O modelo de dados foi criado utilizando o **SQL Power Architect** e está disponível na pasta `der/der_olist/`. O diagrama representa as tabelas, suas relações e chaves estrangeiras.
 
-<br>
 <br>
 
 ## Objetivos do Treinamento
@@ -81,7 +75,6 @@ O modelo de dados foi criado utilizando o **SQL Power Architect** e está dispon
 - **Consultas Avançadas (DQL):** Como usar joins, subconsultas, agregações e funções para obter insights a partir dos dados.
 - **Modelagem de Dados:** Como usar o **SQL Power Architect** para criar e entender o modelo de dados de um banco de dados relacional.
 
-<br>
 <br>
 
 ## Como Rodar o Projeto?
@@ -95,7 +88,6 @@ Para rodar este projeto, você precisará de:
 - **Kaggle API** ou **Download Manual:** Para obter os arquivos de dados da Olist.
 
 <br>
-<br>
 
 ## Exercícios Práticos
 
@@ -106,7 +98,6 @@ Durante o treinamento, você realizará os seguintes exercícios:
 - **Consultas Avançadas:** Escrever consultas complexas para analisar as vendas, os produtos mais vendidos, etc.
 - **Modelagem de Dados:** Criar ou modificar o modelo **ER** utilizando o **SQL Power Architect**.
 
-<br>
 <br>
 
 ## Contribuições
