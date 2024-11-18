@@ -29,6 +29,12 @@ A fonte de dados utilizada no treinamento é proveniente do conjunto de dados da
 
 <br>
 
+## Documentação do Banco de Dados
+
+- [Documentação](https://github.com/enzodelcompare/treinamento-sql-olist/blob/main/doc_olist_db.md)
+
+<br>
+
 ## Estrutura do Projeto
 
 Este repositório contém as seguintes estruturas de pastas:
