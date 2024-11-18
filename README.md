@@ -79,7 +79,7 @@ O modelo de dados foi criado utilizando o **SQL Power Architect** e está dispon
 
 ## Como Rodar o Projeto?
 
-### 1. Requisitos
+### Requisitos
 
 Para rodar este projeto, você precisará de:
 
