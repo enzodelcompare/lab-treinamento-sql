@@ -117,7 +117,9 @@ Armazena os itens contidos nos pedidos.
 **Chaves estrangeiras:**
 
 `id_pedido` -> `pedidos(id_pedido)`.
+
 `id_produto` -> `produtos(id_produto)`.
+
 `id_vendedor` -> `vendedores(id_vendedor)`.
 
 <br>
