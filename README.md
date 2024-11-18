@@ -81,9 +81,11 @@ O modelo de dados foi criado utilizando o **SQL Power Architect** e está dispon
 
 Para rodar este projeto, você precisará de:
 
-- **MySQL:** Para criar e gerenciar o banco de dados.
-- **SQL Power Architect:** Para visualizar e criar o modelo de dados.
-- **Kaggle API** ou **Download Manual:** Para obter os arquivos de dados da Olist.
+- **MySQL:** Para criar e gerenciar o banco de dados. [Download MySQL](https://www.mysql.com/downloads/)
+- **SQL Power Architect:** Para visualizar e criar o modelo de dados. [Download Workbench](https://dev.mysql.com/downloads/workbench/)
+- **Kaggle API** ou **Download Manual:** Para obter os arquivos de dados da Olist. [Download Fonte de Dados Olist](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)
+
+> **NOTA:** É necessário ter uma conta no Kaggle para conseguir fazer o downloiad dos dados.
 
 <br>
 
