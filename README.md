@@ -6,7 +6,30 @@
   <img src="https://img.shields.io/badge/contatos-enzo_delcompare-green">
 </a>
 
-<img src="https://github.com/enzodelcompare/treinamento-sql-olist/blob/main/imagens/olist.png">
+# Treinamento de SQL
+Bem-vindo ao treinamento de SQL! Este material foi criado para auxiliar os participantes a aprenderem e praticarem os fundamentos de SQL utilizando o MySQL no Docker e acessando o banco de dados pelo DBeaver.
+
+## Requisitos
+Antes de começar, certifique-se de ter os seguintes itens instalados:
+
+### Docker Desktop
+
+- Siga o guia oficial (**Get Docker**)[https://docs.docker.com/get-started/get-docker/].
+
+### DBeaver
+
+- Instruções de download.
+
+
+
+
+
+
+
+
+
+
+
 
 # Treinamento SQL - Data Voyagers
 
