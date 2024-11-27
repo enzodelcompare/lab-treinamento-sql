@@ -22,6 +22,10 @@ Antes de começar, certifique-se de ter os seguintes itens instalados:
 
 - Instruções de download.
 
+### Fonte de Dados
+
+- Voce pode encontrar os arquivos.csv (**aqui**)[https://drive.google.com/file/d/1-YHLkEve1kPB8V_yX2U6YoD9ZBo1LkLB/view?usp=sharing]
+
 ### Sobre
 
 Durante o treinamento, você realizará os seguintes exercícios:
@@ -30,8 +34,6 @@ Durante o treinamento, você realizará os seguintes exercícios:
 - **Inserção de Dados:** Inserir novos dados de clientes, produtos e pedidos no banco.
 - **Consultas Avançadas:** Escrever consultas complexas para analisar as vendas, os produtos mais vendidos, etc.
 - **Modelagem de Dados:** Criar ou modificar o modelo **ER** utilizando o **SQL Power Architect**.
-
-<br>
 
 ### Contribuições
 
