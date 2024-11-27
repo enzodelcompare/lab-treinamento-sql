@@ -20,7 +20,7 @@ Antes de começar, certifique-se de ter os seguintes itens instalados:
 
 ### 🦫 DBeaver
 
-- Instruções de download.
+- Para realizar o download do DBeaver, cique [aqui](https://dbeaver.io/download/)
 
 ### Fonte de Dados
 
