@@ -6,19 +6,24 @@
   <img src="https://img.shields.io/badge/contatos-enzo_delcompare-green">
 </a>
 
+
+
 # Treinamento de SQL
 Bem-vindo ao treinamento de SQL! Este material foi criado para auxiliar os participantes a aprenderem e praticarem os fundamentos de SQL utilizando o MySQL no Docker e acessando o banco de dados pelo DBeaver.
 
 ## Requisitos
 Antes de começar, certifique-se de ter os seguintes itens instalados:
 
-### Docker Desktop
+### 🐳 Docker Desktop 
 
 - Siga o guia oficial (**Get Docker**)[https://docs.docker.com/get-started/get-docker/].
 
-### DBeaver
+### 🦫 DBeaver
 
 - Instruções de download.
+
+### Sobre
+
 Durante o treinamento, você realizará os seguintes exercícios:
 
 - **Criação de Tabelas:** Criar tabelas adicionais baseadas no modelo **Olist**.
@@ -28,6 +33,6 @@ Durante o treinamento, você realizará os seguintes exercícios:
 
 <br>
 
-## Contribuições
+### Contribuições
 
 Contribuições são bem-vindas! Se você quiser melhorar este repositório, abra um `pull request` com suas melhorias ou correções. Caso identifique algum erro ou problema, crie uma issue para que possamos discutir a solução.
