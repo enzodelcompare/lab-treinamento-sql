@@ -16,7 +16,7 @@ Antes de começar, certifique-se de ter os seguintes itens instalados:
 
 ### 🐳 Docker Desktop 
 
-- Siga o guia oficial (**Get Docker**)[https://docs.docker.com/get-started/get-docker/].
+- Siga o guia oficial [**Get Docker**](https://docs.docker.com/get-started/get-docker/).
 
 ### 🦫 DBeaver
 
@@ -24,7 +24,7 @@ Antes de começar, certifique-se de ter os seguintes itens instalados:
 
 ### Fonte de Dados
 
-- Voce pode encontrar os arquivos.csv (**aqui**)[https://drive.google.com/file/d/1-YHLkEve1kPB8V_yX2U6YoD9ZBo1LkLB/view?usp=sharing]
+- Voce pode encontrar os arquivos.csv [aqui](https://drive.google.com/file/d/1-YHLkEve1kPB8V_yX2U6YoD9ZBo1LkLB/view?usp=sharing)
 
 ### Sobre
 
